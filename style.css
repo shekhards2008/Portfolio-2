@@ -1,0 +1,25 @@
+.header{
+    background-color: #808080;
+    display:flex;
+    justify-content:space-between;
+}
+*{
+    Border:Solid
+}
+.Grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Item{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
+P,h2{
+    text-align: center;
+}
